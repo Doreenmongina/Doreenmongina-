@@ -1,9 +1,13 @@
-# Doreenmongina-
-My name is Doreen Mong'ina and I am currently enrolled in the IYP programme for a programming course.
-I aim to acquire the relevant programming skills relevant to my career path as researcher. This will enable me have the ability to solve problem with more ease..
-My current projects are PLP and IYP programme which all combined will compliment each other to me achieving my objectives.
+### About me
+##Name:#Doreen Mong’ina
+Located_in: Kenya
+Career path: Data analysis
+Education: Bachelors of economics and statistics
+Past experiences:
+  - ["March 2024 - July 2024” “Research Assistant” “ Machakos University"]
+  - ["Oct 2022 - Nov 2023” “Sales Representative” “APA Insurance Limited”]
+  - ["June 2021 - June 2022” “Strategy and Planning Officer” “Sacco Societies Regulatory Authority (SASRA)"]
+fields_of_interests: ["data analysis", "programming", "research" ]
+currently_learning: ["software engineeriang"]
 
-In an case you need to contact me please use the below contacts
-Email: doreenmongna@gmail.com 
-Phone no: 0718169608/0794648982
 
