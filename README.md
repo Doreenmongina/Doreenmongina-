@@ -1,8 +1,12 @@
 ### About me
 #Name:Doreen Mong’ina
+
 #Located_in: Kenya
+
 #Career path: Data analysis
+
 #Education: Bachelors of economics and statistics
+
 #Past experiences:
   - ["March 2024 - July 2024” “Research Assistant” “ Machakos University"]
   - ["Oct 2022 - Nov 2023” “Sales Representative” “APA Insurance Limited”]
