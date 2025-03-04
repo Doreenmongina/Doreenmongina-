@@ -1,5 +1,5 @@
 ### About me
-##Name:#Doreen Mong’ina
+#Name:Doreen Mong’ina
 #Located_in: Kenya
 #Career path: Data analysis
 #Education: Bachelors of economics and statistics
